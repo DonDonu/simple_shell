@@ -3,7 +3,7 @@
 /**
  * _eputs - prints an input string
  * @str: the string to be printed
- *
+ * auth: Dondonu and Ogstevyn
  * Return: Nothing
  */
 void _eputs(char *str)

@@ -3,7 +3,7 @@
 /**
  * interactive - returns true if shell is interactive mode
  * @info: struct address
- *
+ * auth: Dondonu and OgStevyn
  * Return: 1 if interactive mode, 0 otherwise
  */
 int interactive(info_t *info)
@@ -40,7 +40,7 @@ int _isalpha(int c)
 }
 
 /**
- * _atoi - converts a string to an integer
+ * _atoi - converts the string toan integer
  * @s: the string to be converted
  * Return: 0 if no numbers in string, converted number otherwise
  */
